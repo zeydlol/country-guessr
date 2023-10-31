@@ -1,5 +1,8 @@
+import lol.zeyd.Guessr;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        // Calling main method
+        Guessr.getInstance.onStartUp();
     }
 }
